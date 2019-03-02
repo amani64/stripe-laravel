@@ -11,6 +11,12 @@ We do not give estimated times for completion on `Accepted` Proposals.
 
 ---
 
+### v11.0.0 - TBA
+
+`REVISED`
+
+- Support for Laravel 5.9
+
 ### v10.0.0 - 2019-03-02
 
 `REVISED`

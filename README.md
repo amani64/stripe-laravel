@@ -1,10 +1,10 @@
 # Stripe Laravel
 
-[![Build Status](https://travis-ci.org/cartalyst/stripe-laravel.svg?branch=10.0)](https://travis-ci.org/cartalyst/stripe-laravel)
+[![Build Status](https://travis-ci.org/cartalyst/stripe-laravel.svg?branch=11.0)](https://travis-ci.org/cartalyst/stripe-laravel)
 
-Laravel 5.8 integration for the [Cartalyst Stripe](https://cartalyst.com/manual/stripe/2.0) package.
+Laravel 5.9 integration for the [Cartalyst Stripe](https://cartalyst.com/manual/stripe/2.0) package.
 
-The package requires PHP 7.1.3+ and follows the FIG standards PSR-1, PSR-2 and PSR-4 to ensure a high level of interoperability between shared PHP.
+The package requires PHP 7.2 and follows the FIG standards PSR-1, PSR-2 and PSR-4 to ensure a high level of interoperability between shared PHP.
 
 An open source package by [Cartalyst](https://cartalyst.com), code well, rock on!
 
@@ -22,17 +22,19 @@ Stripe Laravel                                                  | Laravel
 [8.0.x](https://github.com/cartalyst/stripe-laravel/tree/8.0)   | 5.6
 [9.0.x](https://github.com/cartalyst/stripe-laravel/tree/9.0)   | 5.7
 [10.0.x](https://github.com/cartalyst/stripe-laravel/tree/10.0) | 5.8
+[11.0.x](https://github.com/cartalyst/stripe-laravel/tree/11.0) | 5.9
 
 ## Documentation
 
-Reader-friendly Documentation can be found [here](https://cartalyst.com/manual/stripe-laravel/10.0).
+Reader-friendly Documentation can be found [here](https://cartalyst.com/manual/stripe-laravel/11.0).
 
-Raw files can be found [here](https://github.com/cartalyst/stripe-laravel/tree/docs/10.0).
+Raw files can be found [here](https://github.com/cartalyst/stripe-laravel/tree/docs/11.0).
 
 ## Change Log
 
 Important versions listed below. Refer to the [Change Log](CHANGELOG.md) for a full history of the project.
 
+- [11.0](CHANGELOG.md) - TBA
 - [10.0](CHANGELOG.md) - 2019-03-02
 - [9.0](CHANGELOG.md) - 2018-09-23
 - [8.0](CHANGELOG.md) - 2018-02-07
